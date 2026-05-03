@@ -13,6 +13,8 @@ Este espacio forma parte de mi **portafolio profesional** como Programador y Té
 
 
 
-
-https://github.com/user-attachments/assets/6525e4bc-2e9c-474d-9a83-b89b93d6ae26
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/5ebeb141-fcf5-424f-a47f-f7c57f4aea14" width="100%" style="max-width:800px;" autoplay loop muted playsinline>
+    Tu navegador no soporta el elemento de video.
+  </video>
+</p>
