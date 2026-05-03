@@ -9,3 +9,10 @@ Este espacio forma parte de mi **portafolio profesional** como Programador y Té
 
 > [!IMPORTANT]
 > Este código se publica con fines de portafolio profesional para demostrar mis habilidades técnicas. Si eres estudiante, te animo a seguir la política de honestidad académica del curso.
+
+
+
+
+
+https://github.com/user-attachments/assets/6525e4bc-2e9c-474d-9a83-b89b93d6ae26
+
