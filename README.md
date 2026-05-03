@@ -1,31 +1,30 @@
-# 🚀 AstroDot: La Odisea de CS50
-
-Este es mi proyecto final para la **Semana 0 de CS50x**. Más que un simple ejercicio, es un prototipo que rinde homenaje a los juegos clásicos de naves y exploración espacial, desarrollado íntegramente en Scratch.
+# AstroDot: La Odisea de CS50
+**Documentación del Proyecto | Semana 0 - CS50x**
 
 ---
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/user-attachments/assets/47bb5a43-b1fc-4e9d-8731-278bd83dd522" width="800" alt="AstroDot Gameplay en Acción" style="border-radius: 8px;" />
+    <img src="https://github.com/user-attachments/assets/47bb5a43-b1fc-4e9d-8731-278bd83dd522" width="800" alt="Demostración de Gameplay de AstroDot" style="border-radius: 4px;" />
   </kbd>
 </p>
 
-## 🌌 Historia del Juego
-En un rincón remoto de la galaxia de **CS50**, nuestro héroe **AstroDot** debe navegar a través de campos de asteroides y peligros cósmicos para completar su misión. Es una odisea que pone a prueba los reflejos y la precisión del jugador.
+## Resumen del Proyecto
+AstroDot es un sistema de simulación interactiva desarrollado en Scratch para explorar los principios fundamentales de la computación. El proyecto se centra en la gestión de estados, la detección de colisiones y la optimización de la respuesta en tiempo real entre el usuario y la interfaz.
 
-## 🎮 Mecánicas de Juego
-He diseñado la lógica de AstroDot centrándome en una experiencia fluida:
-* **Movimiento Ágil:** El protagonista responde a los comandos del jugador para esquivar obstáculos en tiempo real.
-* **Sistema de Colisiones:** Programado para detectar impactos precisos con objetos espaciales.
-* **Estética Pixel-Art:** Cada sprite y escenario fue seleccionado para evocar la nostalgia de las consolas de 8 bits.
+## Arquitectura de Programación
+El desarrollo se estructuró bajo los siguientes pilares de la lógica de software:
 
-## 🏆 Objetivo del Proyecto
-El desarrollo de **AstroDot** me permitió dominar conceptos fundamentales de programación que aplicaré en el resto del curso:
-1.  **Lógica de Bucles:** Para mantener la acción constante en pantalla.
-2.  **Condicionales:** Para gestionar las interacciones entre los objetos y el entorno.
-3.  **Eventos:** Para coordinar el inicio de la misión y las transiciones del juego.
+* **Control de Flujo:** Implementación de bucles infinitos para la persistencia del entorno de juego y el renderizado de objetos en pantalla.
+* **Manejo de Eventos:** Programación de disparadores lógicos para la interacción del usuario y transiciones de estado (inicio, colisión y fin de partida).
+* **Lógica Condicional:** Algoritmos de validación para determinar el comportamiento de los objetos espaciales y la integridad del protagonista.
+
+## Diseño y Experiencia de Usuario (UX)
+El diseño visual sigue una línea de arte pixelado clásica, seleccionada para maximizar la visibilidad de los elementos críticos durante el gameplay. La disposición de los controles y la retroalimentación visual han sido optimizadas para ofrecer una curva de aprendizaje intuitiva.
+
+## Nota Técnica sobre la Presentación
+La captura de pantalla animada adjunta ha sido procesada mediante el formato WebP optimizado. Esta elección técnica permite una representación de alta fidelidad con un consumo de recursos de red significativamente menor en comparación con formatos tradicionales, garantizando que la documentación sea accesible y profesional.
 
 ---
-<p align="center">
-  <sub>Proyecto desarrollado por <b>Nelson Abner Mendoza Perez</b> para el curso CS50x de Harvard University.</sub>
-</p>
+**Desarrollado por:** Nelson Abner Mendoza Perez  
+**Institución:** Harvard University - CS50x
