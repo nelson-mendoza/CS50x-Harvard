@@ -1,2 +1,11 @@
-# CS50x-Harvard
-Soluciones a los problemas de CS50x de la Universidad de Harvard. Portafolio personal para demostrar lógica de programación y resolución de problemas.
+# 🚀 CS50x - Nelson Abner Mendoza Perez
+
+Este repositorio contiene mis soluciones a los retos del curso **CS50x de Harvard University**.
+
+### 🎯 Propósito
+Este espacio forma parte de mi **portafolio profesional** como Programador y Técnico de TI. El objetivo es:
+* Documentar mi proceso de aprendizaje en algoritmos, C, Python y SQL.
+* Complementar mi formación técnica y certificaciones de **Fortinet** y **HackerRank**.
+
+> [!IMPORTANT]
+> Este código se publica con fines de portafolio profesional para demostrar mis habilidades técnicas. Si eres estudiante, te animo a seguir la política de honestidad académica del curso.
